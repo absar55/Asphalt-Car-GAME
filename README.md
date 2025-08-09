@@ -4,6 +4,10 @@
 
 Built with **C++** on **Ubuntu OS**, Asphalt combines smooth gameplay, competitive racing, and tactical combat — delivering a next-level arcade racing experience.
 
+
+GamePlay Video 🚗⚡🚗⚡🚗⚡🚗⚡🚗⚡🚗⚡: 
+https://drive.google.com/file/d/1bgeyw9GqZn1Y5_CrMqfJZtLf_hwJs1QM/view
+
 ---
 
 ## 🚀 Key Highlights
@@ -67,5 +71,5 @@ Elevate your gameplay with an extensive shop:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/USERNAME/Asphalt.git
-   cd Asphalt
+   https://github.com/absar55/Asphalt-Car-GAME.git
+   cd Asphalt-Car-GAME
