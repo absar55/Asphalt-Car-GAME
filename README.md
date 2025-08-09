@@ -1,87 +1,71 @@
-# Asphalt 🚗🔥
+# Asphalt 🚗⚡
 
-**Asphalt** is a thrilling multiplayer 2D car racing game built on C++ for Ubuntu OS. Featuring stunning graphics, an engaging shop system, and AI-driven opponent cars, Asphalt offers a fast-paced, action-packed racing experience. Race, shoot, upgrade, and dominate the tracks!
+**Asphalt** — An immersive **multiplayer 2D car racing game** with stunning graphics, challenging AI opponents, and a dynamic in-game economy.
 
----
-
-## Table of Contents
-
-- [Features](#features)  
-- [Built With](#built-with)  
-- [Gameplay & Mechanics](#gameplay--mechanics)  
-- [In-Game Shop](#in-game-shop)  
-- [Maps & Boundaries](#maps--boundaries)  
-- [Controls](#controls)  
-- [Installation & Tutorial](#installation--tutorial)  
-- [Contributing](#contributing)  
-- [Known Issues & Future Plans](#known-issues--future-plans)  
-- [License](#license)  
-- [Contact](#contact)  
+Built with **C++** on **Ubuntu OS**, Asphalt combines smooth gameplay, competitive racing, and tactical combat — delivering a next-level arcade racing experience.
 
 ---
 
-## Features
+## 🚀 Key Highlights
 
-- 🎮 **Multiplayer Mode:** Challenge your friends or online players in real-time. Compete in fast and dynamic races with up to X players.  
-- 🤖 **AI Opponents:** Battle against intelligent AI cars that adapt their driving style and tactics, providing a challenging experience every time.  
-- 🛒 **Complete Shop System:** Use earned in-game currency to buy new cars, powerful weapons, unique maps, and boundary designs. Customize your racing style and strategy.  
-- 🔫 **Weapon Mechanics:** Equip your car with guns and other weapons to attack opponents and gain an edge during the race. Use precision and timing to outsmart enemies.  
-- 🏁 **Multiple Maps and Boundaries:** Explore various racing environments with distinct boundaries and obstacles to keep races fresh and exciting.  
-- 📚 **Detailed Guide & Instructions:** Comprehensive tutorials and help menus to get new players up to speed quickly.  
-- 🎨 **Stunning 2D Graphics:** Smooth animations and visually appealing art create an immersive racing atmosphere.
-
----
-
-## Built With
-
-- **Programming Language:** C++  
-- **Operating System:** Ubuntu Linux  
-- **Libraries & Tools:** [Mention any graphic libraries, networking, or other tools used if applicable]  
+- 🎮 **Multiplayer Racing:** Real-time battles against friends or AI, featuring intelligent opponent cars with adaptive behavior.  
+- 🛒 **Robust Shop System:** Unlock & purchase new cars, weapons, maps, and boundary customizations to tailor your racing strategy.  
+- 🔫 **Integrated Combat Mechanics:** Equip your vehicle with guns and power-ups to outgun your rivals on the track.  
+- 🌍 **Diverse Maps & Boundaries:** Multiple race environments offering unique challenges and aesthetic variety.  
+- 🕹️ **User-Friendly UI:** Intuitive menus, guides, and help sections for seamless player onboarding.  
+- 🎨 **Visually Stunning:** High-quality 2D graphics optimized for smooth performance on Ubuntu.
 
 ---
 
-## Gameplay & Mechanics
+## 📊 Technology Stack
 
-Asphalt offers a mix of racing and combat. Players control their cars using intuitive controls, racing through challenging tracks filled with twists, turns, and hazards. Strategic use of weapons allows players to disable opponents temporarily and gain the lead.
-
-- **Driving:** Use arrow keys (or WASD) to accelerate, brake, and steer.  
-- **Combat:** Use assigned keys to fire your guns and weapons. Timing your shots and positioning is key to winning.  
-- **Racing Objectives:** Win by either finishing first or by disabling your opponents using weapons.
-
----
-
-## In-Game Shop
-
-The shop is a central part of the gameplay loop. Earn currency by winning races and defeating AI opponents.
-
-- **Cars:** Unlock faster and more durable cars, each with unique stats and handling.  
-- **Weapons:** Purchase guns and power-ups to increase your combat capabilities.  
-- **Maps:** Buy new maps with unique designs and challenges to keep the game exciting.  
-- **Boundaries:** Customize the look and layout of track boundaries for a personalized experience.
+| Aspect          | Details                      |
+|-----------------|------------------------------|
+| Programming     | C++                          |
+| Platform        | Ubuntu Linux                 |
+| Graphics       | [Specify libraries if any]   |
+| Networking     | [Specify if multiplayer networking used] |
 
 ---
 
-## Maps & Boundaries
+## 🎯 Gameplay Overview
 
-Multiple maps provide diverse racing experiences:
+Master the tracks by balancing speed, skillful driving, and strategic combat. 
 
-- City streets, deserts, forests, and more.  
-- Each map features unique obstacles and boundaries to challenge player skills.  
-- Boundary customization allows creative control over the race environment.
-
----
-
-## Controls
-
-| Action            | Key(s)        |
-|-------------------|---------------|
-| Accelerate        | Up Arrow / W  |
-| Brake/Reverse     | Down Arrow / S|
-| Steer Left        | Left Arrow / A|
-| Steer Right       | Right Arrow / D|
-| Fire Gun          | Spacebar      |
-| Open Shop/Menu    | M             |
+- Navigate dynamic courses using responsive controls.  
+- Use weapons tactically to disrupt opponents.  
+- Earn in-game currency to upgrade your arsenal and vehicles.  
+- Compete for dominance in multiplayer or AI-driven races.
 
 ---
 
+## 🛍️ In-Game Shop
 
+Elevate your gameplay with an extensive shop:
+
+- **Cars:** Choose from a variety of vehicles with distinct stats and abilities.  
+- **Weapons:** Equip powerful guns and gadgets to outsmart adversaries.  
+- **Maps & Boundaries:** Access new racing tracks and customize course limits.  
+- **Currency System:** Win races and challenges to accumulate coins for purchases.
+
+---
+
+## 🎮 Controls Summary
+
+| Action          | Key Bindings          |
+|-----------------|-----------------------|
+| Accelerate      | ↑ / W                 |
+| Brake/Reverse   | ↓ / S                 |
+| Steer Left      | ← / A                 |
+| Steer Right     | → / D                 |
+| Fire Weapon     | Spacebar              |
+| Open Shop/Menu  | M                     |
+
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/USERNAME/Asphalt.git
+   cd Asphalt
